@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:travel_app/login.dart';
 import 'package:travel_app/home.dart';
+import 'package:travel_app/map.dart';
 
 void main() {
   // Size size = MediaQuery.of(context).size;
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Login(),
+      home: Home1(),
     );
   }
 }

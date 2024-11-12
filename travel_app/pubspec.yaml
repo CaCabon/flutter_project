@@ -63,6 +63,15 @@ flutter:
   - assets/image/apple.png
   - assets/image/google.png
   - assets/image/facebook.png
+  - assets/image/gondola.jpg
+  - assets/image/murano.jpg
+  - assets/image/newdelhi.jpg
+  - assets/image/newyork.jpg
+  - assets/image/paris.jpg
+  - assets/image/santorini.jpg
+  - assets/image/saopaulo.jpg
+  - assets/image/stmarksbasilica.jpg
+  - assets/image/venice.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
